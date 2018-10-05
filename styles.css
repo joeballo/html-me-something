@@ -1,0 +1,55 @@
+nav {
+    
+    background-color: lemonchiffon;
+    height: 80px;
+}
+
+header {
+    background-color: floralwhite;
+    border-bottom: solid 3px lemonchiffon;
+}
+
+body {
+    
+    background-color: lightgray;
+    font-family: Georgia;
+    text-align: center;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: lemonchiffon;
+    margin-bottom: 5px;
+}
+
+.job {
+    font-size: 18px;
+    background-color: floralwhite;
+    height: 22px;   
+    width: auto; 
+    margin: auto; 
+}
+
+div { 
+    border: solid 5px floralwhite;
+    display: block;
+    text-align: center;
+    padding: 4px;
+}
+
+#goal {
+    margin-left: 400px;
+    margin-right: 400px;    
+}
+
+#ed {
+    margin-left: 450px;
+    margin-right: 450px;
+
+}
+
+#skill {
+    margin-left: 425px;
+    margin-right: 425px;
+
+}
